@@ -5,5 +5,6 @@
     <mapping directory="$PROJECT_DIR$/.deploy_git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/hexo-theme-Annie" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/next" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/smackdown" vcs="Git" />
   </component>
 </project>
