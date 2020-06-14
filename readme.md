@@ -9,3 +9,15 @@
 |abc|bcd|cde|
 |abc|bcd|cde|
 |abc|bcd|cde|
+
+# 如何更换主题
+
+# 开发调试
+```
+npm run dev
+```
+
+# 文章全量发布
+```
+npm run publish
+```
